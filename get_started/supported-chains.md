@@ -1,6 +1,8 @@
 # Supported Tokens
 
-Below are the tokens for which cross chain transactions are currently supported on Wanchain. New tokens are continually added - follow our [Twitter](https://twitter.com/wanchain_org) to get the latest updates. 
+Following are the projects with support for cross-chain transactions on Wanchain.
+New Projects will be added* in the future. 
+Please follow our [Twitter](https://twitter.com/wanchain_org) to get the latest updates on Wanchain. 
 
 - [Bitcoin (BTC)](https://bitcoin.org/en/)
 
